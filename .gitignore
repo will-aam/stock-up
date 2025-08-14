@@ -27,5 +27,6 @@ yarn-error.log*
 next-env.d.ts
 
 # outros
-
+/prisma/inventory.db
+/prisma/inventory.db-journal
 stockmain.zip
